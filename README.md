@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, World. Unfortunately, it's me. 👋
 
-<!--
-**riotrequest/riotrequest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been building things for the web for over 20 years. Somewhere along the way, I started making games, experimenting with AI, and automating things that probably didn't need automating.
 
-Here are some ideas to get you started:
+**20+ years of experience. Still regularly asking, "What happens if I push this button?"**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Things I mess with
+- 🌐 Web development (20+ years and counting)
+- 🤖 AI, automation, and questionable experiments
+- 🎮 Game development
+- ⚙️ Go, Python, PHP, Godot, and whatever else gets the job done
+- 🧪 Turning terrible ideas into surprisingly functional software
+
+### 🧠 My development philosophy
+
+*"How hard could it possibly be?"*
+
+**Narrator:** It was considerably harder than expected.
+
+### 🚧 Current status
+
+My side projects have side projects.
+
+Some of them even work.

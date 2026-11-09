@@ -1,24 +1,21 @@
-# Hello, World. Unfortunately, it's me. 👋
+# I Build Things. 🚀
 
-I've been building things for the web for over 20 years. Somewhere along the way, I started making games, experimenting with AI, and automating things that probably didn't need automating.
+20+ years building for the web. These days, I'm pushing into AI, automation, game development, and whatever else catches my attention.
 
-**20+ years of experience. Still regularly asking, "What happens if I push this button?"**
+I like taking ideas, figuring out how to make them work, and building things that probably didn't need to exist — but I'm glad they do.
 
-### 🛠️ Things I mess with
-- 🌐 Web development (20+ years and counting)
-- 🤖 AI, automation, and questionable experiments
-- 🎮 Game development
-- ⚙️ Go, Python, PHP, Godot, and whatever else gets the job done
-- 🧪 Turning terrible ideas into surprisingly functional software
+### ⚡ What I Do
+- 🌐 **Web Development** — 20+ years and counting
+- 🤖 **AI & Automation** — Building systems that actually get things done
+- 🎮 **Game Development** — Creating worlds from scratch
+- 🛠️ **Software Engineering** — Go, Python, PHP, Godot, and whatever gets the job done
 
-### 🧠 My development philosophy
+### 🧠 My Philosophy
 
-*"How hard could it possibly be?"*
+**Build it. Break it. Make it better.**
 
-**Narrator:** It was considerably harder than expected.
+### 🚧 Current Status
 
-### 🚧 Current status
+Too many projects. Not enough hours.
 
-My side projects have side projects.
-
-Some of them even work.
+**And I'm just getting started.**
